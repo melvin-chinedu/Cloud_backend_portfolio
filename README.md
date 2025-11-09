@@ -6,13 +6,12 @@ This repository documents my daily progress as I learn and build using technolog
 ---
 
 ## 📅 Progress Overview
-
-### [Day 1 — Linux & Account Setup](./Day_1_linux_AWS_acct_setup/notes.md)
+##[Day 1 – Linux & Account Setup](./Day_1_Linux_AWS_acct_setup/notes.md)
 - Practiced basic and advanced Linux commands  
 - Created and secured my AWS account  
 - Set up GitHub repo and SSH connection  
 
-### [Day 2 — Git & Branching](./day_2_git_branching/notes.md)
+##[Day 2 – Git & Branching](./Day_2_git_branching_Python_exercises/notes.md)
 - Learned about commits, branches, merges, and rebases  
 - Practiced creating feature branches and pull requests  
 - Built small Python exercises on lists and dictionaries  
