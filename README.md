@@ -16,6 +16,11 @@ This repository documents my daily progress as I learn and build using technolog
 - Practiced creating feature branches and pull requests  
 - Built small Python exercises on lists and dictionaries  
 
+##[Day 3 – python_ds](./Day_3_Python_ds/notes.md)
+- Practiced lists, dicts, sets, tuples, and comprehensions
+- Built a small contacts manager app using JSON for storage
+- Wrote a simple pytest test file
+
 ---
 ## 🏁 About This Journey
 This 90-day challenge is focused on mastering backend development and cloud engineering through:
